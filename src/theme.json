@@ -1,0 +1,8 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Roboto",
+      "weights": [300, 400, 500, 600]
+    }
+  }
+}

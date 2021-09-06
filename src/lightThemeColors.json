@@ -1,0 +1,20 @@
+{
+  "main": "#009EF6",
+  "mainContrast": "#FDFDFD",
+  "black": "#000000",
+  "white": "#FFFFFF",
+  "black1": "#303030",
+  "grey": "#939393",
+  "darkGray": "#707070",
+  "colorPage": "#303030",
+  "backgroundColor": "#E5E5E5",
+  "backgroundWhite": "#FDFDFD",
+  "backgroundPage": "#F4F4F4",
+  "alert": "#FF1913",
+  "buttonWhite": "#FCFEFF",
+  "disabled": "#CACACA",
+  "additionalBlue": "#EAF5FF",
+  "alertOnline": "#05D927",
+  "yellow": "#FFD600",
+  "greenBadges": "#DAFFE0"
+}
